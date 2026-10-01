@@ -11,3 +11,10 @@
 
 ### Testing Details :mag:
 <!-- Describe what tests you've added for your changes. -->
+
+
+## AI attribution
+
+<!-- Replace the placeholder with the actual agent name(s). Remove this line when there was no AI involvement. Follow AGENTS.md for the required commit trailers and preserve attribution when squash merging. -->
+
+AI-Assisted: <Agent Name>
