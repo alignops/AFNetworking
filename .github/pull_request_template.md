@@ -15,6 +15,8 @@
 
 ## AI attribution
 
-<!-- Replace the placeholder with the actual agent name(s). Remove this line when there was no AI involvement. Follow AGENTS.md for the required commit trailers and preserve attribution when squash merging. -->
+<!-- Replace the placeholder with every agent named in a Co-authored-by
+trailer of this PR's commits. Remove this line when no commit was
+AI-assisted. Follow AGENTS.md for the exact commit trailers and levels. -->
 
-AI-Assisted: <Agent Name>
+AI-Agents: <Agent Name>
